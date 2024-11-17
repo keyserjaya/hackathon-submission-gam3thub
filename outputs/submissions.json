@@ -2013,5 +2013,22 @@
         "twitter": "0xromif"
       }
     ]
-  }
+  },
+  {
+    "name": "Gam3THub",
+    "tagline": "Game, Game Launcher, Web 3 Game Launcher, Browser Game Launcher, Flow, Blockscout, Dynamic.xyz, Games",
+    "showcaseUrl": "https://ethglobal.com/showcase/gam3thub (estimated link) (you can check it here: https://gam3thub.vercel.app/)",
+    "sourceCodeUrl": "https://github.com/keyserjaya/hackathon-submission-gam3thub",
+    "liveDemoUrl": "https://gam3thub.vercel.app/",
+    "team": [
+      {
+        "github": "keyserjaya",
+        "twitter": "keyserjaya"
+      },
+      {
+        "github": "",
+        "twitter": "orlandonandito"
+      }
+    ]
+  },
 ]
